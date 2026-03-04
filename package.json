@@ -1,9 +1,9 @@
 {
-  "name": "fca-anurag-miishraa",
+  "name": "sagor-noob",
   "version": "1.0.5",
   "module": "commonjs",
   "types": "src/types/index.d.ts",
-  "description": "Advanced Facebook Chat API (FCA) for Node.js - Bug-fixed fork of anurag-miishraa-fca with memory leak fixes, proper reconnection handling, and production-ready stability",
+  "description": "Advanced Facebook Chat API (FCA) for Node.js - Bug-fixed fork of sagor-fca with memory leak fixes, proper reconnection handling, and production-ready stability",
   "main": "index.js",
   "files": [
     "index.js",
@@ -16,22 +16,22 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anumishra22/Anurag-Miishraa-FCA-.git"
+    "url": "git+https://github.com/JAHIDULLX6/-sagor-fca.git"
   },
-  "author": "Anurag Miishraa",
-  "contributors": ["Anurag Miishraa Team (original authors)"],
+  "author": "SaGor",
+  "contributors": ["SAGOR (original authors)"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anumishra22/Anurag-Miishraa-FCA-/issues"
+    "url": "https://github.com/JAHIDULLX6/-sagor-fca/issues"
   },
-  "homepage": "https://github.com/anumishra22/Anurag-Miishraa-FCA-#readme",
+  "homepage": "https://github.com/JAHIDULLX6/-sagor-fca#readme",
   "keywords": [
     "facebook",
     "chat",
     "api",
     "fca",
-    "fca-anurag-miishraa",
-    "anurag-miishraa-fca",
+    "sagor-noob",
+    "noob",
     "messenger",
     "bot",
     "automation",
